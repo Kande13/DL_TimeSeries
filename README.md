@@ -16,8 +16,6 @@ Ce projet vous guide à travers une étude complète de séries temporelles appl
 
 **Dataset utilisé** : [Household Power Consumption Dataset](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
 
----
-
 
 ---
 
